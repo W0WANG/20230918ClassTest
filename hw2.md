@@ -4,7 +4,7 @@
 gantt
     title A Gantt Diagram
 
-    section Section
+    section 任務
     研擬計畫   :a1, 2023-10-02, 1d
     任務分配   :a2, after a1  , 4d
     取得硬體   :a3, after a1  , 17d
@@ -21,3 +21,6 @@ gantt
 # GERT圖
 ![NKUST](PERT圖.jpg "PERT圖")
 # 關鍵路徑
+```big zone
+關鍵路徑：1 → 2 → 4 → 6 → 9 → 11
+```
