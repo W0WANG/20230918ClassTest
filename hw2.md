@@ -19,5 +19,5 @@ gantt
     
 ```
 # GERT圖
-
+![NKUST](PERT圖.jpg "PERT圖")
 # 關鍵路徑
