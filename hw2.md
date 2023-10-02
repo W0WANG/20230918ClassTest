@@ -18,8 +18,8 @@ gantt
     捨用者測試  :a11, after a9 , 25d
     
 ```
-# GERT圖
-![NKUST](PERT圖.jpg "PERT圖")
+# PERT圖
+![PERT圖](PERT圖.jpg "PERT圖")
 # 關鍵路徑
 ```big zone
 關鍵路徑：1 → 2 → 4 → 6 → 9 → 11
