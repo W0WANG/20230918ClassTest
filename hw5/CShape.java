@@ -3,7 +3,5 @@ abstract class CShape{
     public void setColor(String str){
         color = str;
     }
-
-
     public abstract void show();
 }
